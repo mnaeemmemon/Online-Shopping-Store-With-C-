@@ -1,0 +1,8 @@
+Price: 33000
+Proid: 170
+Name: IPhone 7
+
+Features:
+Camera:12 MP
+Batttery:1822 mah
+Ram:2 

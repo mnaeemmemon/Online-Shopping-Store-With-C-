@@ -1,0 +1,8 @@
+Price: 45000
+Proid: 120
+Name: Galaxy A40
+
+Features:
+Main Camera:16 MP,Front Camera:25 MP
+Batttery:3100 mah
+Ram:4

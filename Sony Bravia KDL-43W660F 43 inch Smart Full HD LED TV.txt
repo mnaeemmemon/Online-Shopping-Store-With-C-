@@ -1,0 +1,9 @@
+Price: 84000
+Proid: 290
+Name: Sony Bravia KDL
+
+Features:
+Display Size: 43 inch (42.5") | 108.0 cm
+Resolution: 1920 x 1080
+Picture (Processing): High Dynamic Range (HDR10, HLG), Motionflow™ XR 200 (Native 50Hz), X-Reality™ PRO Clarity Enhancer, Live Colour™ Technology, Dynamic Contrast Enhancer
+Connectivity: Wi-Fi, HDCP1.4, Ethernet 1 (Rear), Screen mirroring(Miracast™), Photo Sharing Plus, Media Connect, Digital Audio 1 (Rear), Audio Output (Hybrid/Side), Composite 1, USB 2 (Side/Stacking), HDMI 2 (2Side)

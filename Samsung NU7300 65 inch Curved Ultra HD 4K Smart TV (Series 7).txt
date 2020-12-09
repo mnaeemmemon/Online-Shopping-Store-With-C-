@@ -1,0 +1,10 @@
+Price: 12450
+Proid: 250
+Name: Samsung NU7300
+
+Features:
+Display size: 65"
+Resolution:3,840 x 2,160
+Picture Engine: UHD Engine
+PQI (Picture Quality Index): 1400
+Connectivity: HDMI 3 | USB 2 | Component In (Y/Pb/Pr) 1 | Composite In (AV) 1 (Common Use for Component Y) | Ethernet (LAN) Yes | and others

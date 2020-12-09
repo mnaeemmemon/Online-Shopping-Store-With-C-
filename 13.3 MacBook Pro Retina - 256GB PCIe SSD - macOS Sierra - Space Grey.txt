@@ -1,0 +1,10 @@
+Price: 158,750
+Proid: 30
+Name: 13.3 MacBook Pro
+
+Features:
+2.0 GHz Intel Core i5 Dual-Core
+8GB of 1866 MHz RAM - 256GB PCIe SSD
+13.3" 2560 x 1600 Retina Display
+Integrated Intel Iris Graphics 540
+802.11ac Wi-Fi & Bluetooth 4.2

@@ -1,0 +1,9 @@
+Price: 78000
+Proid: 140
+Name: HP Elitebook G4
+
+Features:
+Windows 10 Pro 64
+8th Generation Intel® Core™ i7 processor
+32 GB memory; 512 GB SSD storage
+13.3" diagonal Full HD touch display

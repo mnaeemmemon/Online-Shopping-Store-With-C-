@@ -1,0 +1,8 @@
+Price: 70000
+Proid: 180
+Name: IPhone 8
+
+Features:
+Camera:12 MP
+Batttery:1822 mah
+Ram:2 

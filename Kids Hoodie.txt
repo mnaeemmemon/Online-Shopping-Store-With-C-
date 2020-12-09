@@ -1,0 +1,10 @@
+Price: 1000
+Proid: 190
+Name: Polyster Hoodie
+
+Features:
+Item Type:hoodie
+Main fabric composition: polyester fiber (polyester)
+Collar type: hooded
+Color: BEn 10
+Pattern: printing

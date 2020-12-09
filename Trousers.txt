@@ -1,0 +1,11 @@
+Price: 3099
+Proid: 300
+Name: Baroot Trouser
+
+Features:
+Branded Trouser
+Brand : baroot
+Two colour available
+Stuff : Cambric Cotton
+Front embrided
+Back embrided

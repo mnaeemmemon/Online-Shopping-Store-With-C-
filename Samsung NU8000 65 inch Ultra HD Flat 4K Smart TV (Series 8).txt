@@ -1,0 +1,12 @@
+Price: 116000
+Proid: 260
+Name: Samsung NU8000
+
+Features:
+Display Size: 65"
+Resolution 3,840 x 2,160
+Picture Engine UHD Engine
+PQI (Picture Quality Index) 2500
+Motion Rate 200
+Contrast  Mega Contrast
+Color: Dynamic Crystal Color

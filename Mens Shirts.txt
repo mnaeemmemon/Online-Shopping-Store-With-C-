@@ -1,0 +1,15 @@
+Price: 2190
+Proid: 230
+Name: Levis Shirt
+
+Features:
+Levis Shirt
+Item Type:Shirt
+
+Main fabric composition: polyester fiber (polyester)
+Collar type: Navy Blue
+Pattern: printing
+Sleeve length: long sleeves
+Version: loose type
+Style: street
+Popular elements: 3D

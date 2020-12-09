@@ -1,0 +1,9 @@
+Price: 68000
+Proid: 150
+Name: HP Elitebook G5
+
+Features:
+Windows 10 Pro 64
+8th Generation Intel® Core™ i3 processor
+16 GB memory; 256 GB NVMe SSD
+13.3" FHD (1920x1080) LED IPS Touchscreen display

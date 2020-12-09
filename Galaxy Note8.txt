@@ -1,0 +1,8 @@
+Price: 89999
+Proid: 130
+Name: Galaxy Note 8
+
+Features:
+Main Camera:12 MP,Front Camera:8 MP
+Batttery:3300 mah
+Ram:6

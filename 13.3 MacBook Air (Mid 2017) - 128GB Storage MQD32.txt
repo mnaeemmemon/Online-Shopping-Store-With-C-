@@ -1,0 +1,10 @@
+Price: 115,000
+Proid: 20
+Name: 13.3 MacBook Air
+
+Features:
+1.8 GHz Intel Core i5 Dual-Core
+8GB of 1600 MHz LPDDR3 RAM - 128GB SSD
+Integrated Intel HD Graphics 6000
+13.3" 1440 x 900 Glossy Display
+802.11ac Wi-Fi - Bluetooth 4.

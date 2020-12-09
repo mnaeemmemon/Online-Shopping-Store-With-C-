@@ -1,0 +1,9 @@
+Price: 61000
+Proid: 280
+Name: Sony Bravia 40 KLV
+
+Features:
+Display Size:40 inch, 101.6 cm
+Resolution; Full HD 1920 x 1080 pixels
+Display Features: Motionflow™ XR 200Hz(native50Hz), X-Reality™ PRO, Live Colour™ Technology, Dynamic Contrast Enhancer
+Connectivity: HDMI x 2 | USB x 2 | Composite In (AV) | Ethernet (LAN) | Audio Out | RF In (Terrestrial / Cable input) | Wireless Lan

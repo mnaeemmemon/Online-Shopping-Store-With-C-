@@ -1,0 +1,4 @@
+Item Name: Mini Blender
+Item Id: 50
+Item Price: 4000
+Item Quantity: 2

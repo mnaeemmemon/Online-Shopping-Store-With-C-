@@ -1,0 +1,6 @@
+Price: 9000
+Proid: 60
+Name: BP Monitor
+
+Features:
+BP A200 AFIB

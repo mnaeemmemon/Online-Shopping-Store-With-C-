@@ -1,0 +1,9 @@
+Price: 2000
+Proid: 200
+Name: Jeans Pent
+
+Features:
+Item Type:Pent
+Collar type: Blue Jeans
+Color: BEJ 30
+Pattern: Jeans
